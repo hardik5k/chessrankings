@@ -1,0 +1,14 @@
+.App {
+    width: 100%;
+    background-size: cover;
+}
+
+.App-container {
+    position: relative;
+    margin: auto;
+    width: 70%;
+}
+
+.App-container .recharts-wrapper {
+    margin: 0 auto;
+}

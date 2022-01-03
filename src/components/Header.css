@@ -1,0 +1,11 @@
+.top {
+    background-color: grey;
+    border: 5px solid rgba(255, 255, 255, 0.5);
+    width: 90%;
+    padding: 0 0 1em 0;
+    text-align: center;
+    margin: auto auto -1.2em auto;
+    border-radius: 2.5rem;
+    font-size: 60px;
+    box-shadow: 5px 5px 8px rgba(0, 0, 0, 0.9);
+}
